@@ -1,4 +1,4 @@
-![Image Description](https://drive.google.com/file/d/1FT8bjHwUL36sZaSYU6EOUKWgny6khg8e/view?usp=sharing)
+![Image Description](https://drive.google.com/file/d/1i8SGQDtPD2ii5zuu3LG3jvyVVHbsYQZM/view?usp=sharing)
 Scientific Calculator
 
 This is a simple scientific calculator program implemented in Java. It provides functionality to calculate the power of a number and the factorial of a number.
