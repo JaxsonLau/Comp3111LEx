@@ -1,5 +1,4 @@
 ![comp3111.jpg](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2Fcomp3111.jpg)
-
 **Scientific Calculator**
 This is a simple scientific calculator program implemented in Java. It provides functionality to calculate the power of a number and the factorial of a number.
 
