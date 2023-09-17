@@ -1,4 +1,6 @@
-![comp3111.jpg](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2Fcomp3111.jpg)
+![comp3111](https://github.com/JaxsonLau/Comp3111LEx/assets/118270653/a042fd96-28b3-41cc-95c7-7aa21a6403d4)
+
+
 **Scientific Calculator**
 This is a simple scientific calculator program implemented in Java. It provides functionality to calculate the power of a number and the factorial of a number.
 
